@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ruperts potion, vvholsomly prescribed in a discourse betweene him and Mounsier Grandipoco physitian generall to his whole army. (being very desperate sick of a Bristw fever.) VVherein the physitian very learnedly prescribes both the nature and remedy of his disease.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92108</idno><idno type="EEBO-CITATION">99861129</idno>
+  <idno type="VID">113257</idno>
+  <idno type="EEBO-PROQUEST">2269048879</idno>
+  
+            <idno type="STC">Wing R2310</idno>
+            <idno type="STC">Thomason E305_17</idno>
+            <idno type="STC">ESTC R200326</idno>
+            <idno type="PROQUEST">99861129</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861129e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92108)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113257)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 50:E305[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ruperts potion, vvholsomly prescribed in a discourse betweene him and Mounsier Grandipoco physitian generall to his whole army. (being very desperate sick of a Bristw fever.) VVherein the physitian very learnedly prescribes both the nature and remedy of his disease.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>by W.W.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Octob: the 21".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Rupert, --  Prince, Count Palatine, 1619-1682 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113257:1"/>
+            <p>Ruperts Potion, VVholsomly prescribed in a discourse betweene him and Moun<g ref="char:EOLhyphen"/>fier <hi>Grandipoco</hi> Physitian Generall to his whole Army. (being very desperate sick <hi>of a</hi> BRISTW <hi>Fever.</hi>)</p>
+            <p>VVherein the Physitian very learnedly prescribes both the nature and remedy of his disease.</p>
+            <p>Printed at <hi>London</hi> by <hi>W. W.</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113257:2"/>
+            <pb n="1" facs="tcp:113257:2"/>
+            <head>RVPERTS POTION; Wholsomely composed and prescri<g ref="char:EOLhyphen"/>bed in a Discourse between him and Monsieur <hi>Grandipoco,</hi> Physitian Gene<g ref="char:EOLhyphen"/>rall to his whole <hi>Army.</hi>
+            </head>
+            <sp>
+               <speaker>Monsieur.</speaker>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">A</seg>L haile to your Excellency; votrous tris humble servitur.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Rupert.</speaker>
+               <p>Monsieur, you are very welcome, you could never have come in a time that I had more need of you; for truely I think I am almost past cure.</p>
+            </sp>
+            <sp>
+               <speaker>Monsieur.</speaker>
+               <p>
+                  <hi>Fee, fee, Covrage; If you ha got de Alamode Clap, or de Grandipoco, me make cure you presaunt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Rupert.</speaker>
+               <p>O Monsieur, you mistake my disease; I am seque<g ref="char:EOLhyphen"/>stred from those vanities now; my range is contracted into a
+<pb n="2" facs="tcp:113257:3"/>narrow compasse; I cannot so much as ride a hunting: now farewell Ven<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>on.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>By my trot me be very sorry: for your Excellancy wase<g ref="char:EOLhyphen"/>ver so free of your flesh; sans doubt dis shange make very much tr<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uble in your stomack.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Now my very learned Doctor you are within halfe pistel shot of my disease: will you turne your breech towards the West, and cast all your judgement upon my water in that U<g ref="char:EOLhyphen"/>rinall.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>Be gary you hade most worst ill-condishon Vrin dat me ne<g ref="char:EOLhyphen"/>ver see wit all mine eyne,</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Good Monsieur put on your Spectacles, that you may the better discerne the disease.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>Me doe very well percerve by dis Glasse, dat you have much crudid raw, indigested humours upon your stomacks, and mee have much knowledge dat you have much troublesome in your head, as</hi> de Vertego, <hi>and oder whim-sicke diseases; and to tell you de very trot, your whole body ti<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> very out of frame.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Truely Mr. Doctor you are in the right: for I thinke never any man was so tortured as I am. Now Mr. Doctor my next desire is, you will take special care to provide some Phisick.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>Per me foy me will make you de best preparations de all Angeleter.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>I pray you good Doctor let me know what it is I must take; I doubt it must be some desperate Drench or other.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>Fie, Fie, you take me for de Farriar: make you Drensh! No no, me provide you de very fine Potion, de Cordiall drink, and de speciall Peeles, and de brave Electuaries, and if dat do not cure you, Benedicite.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Rupert.</speaker>
+               <p>Give your patient leave to know what these rare things are made, and how they must be taken.</p>
+            </sp>
+            <sp>
+               <speaker>Monsieur.</speaker>
+               <p>
+                  <hi>Dat me will wit all mine heart; de Cordiall drinke must be made of the very best sack, and Gunpowder in all</hi> Bristo; <hi>de Electuary of de best Hoggs grease and hony boyl<g ref="char:EOLhyphen"/>ed together, and you must take of each of des a pynte, one two tree foure five tyme; your potion it must be made of dose Let<g ref="char:EOLhyphen"/>ter
+<pb n="3" facs="tcp:113257:3"/>was found in de Kings Cabinet at</hi> Nasby, <hi>and the last Pro<g ref="char:EOLhyphen"/>positions for peace cut very small, and then boyled in a pottle of Holy water upon a slow fire, till it come to be de quarte; And dene strene it through a paire of de fine Lawne sleeves, and you must drinke it all at once without either feare or witt; and den you must take dat Letter Sir</hi> Thomas Fairefaxe <hi>sent you when you bestowed</hi> Bristow <hi>upon him (against your will) and it must be made up into very small peeles for your swallow.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Monsier you talke strangely, all these ingrediences can<g ref="char:EOLhyphen"/>not be provided, for Sir <hi>Thomas Pairfaxe</hi> when hee opened the Kings Cabinet, tooke the Letters away with him.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>Doe not you make care for de providing of dem, mee ve<g ref="char:EOLhyphen"/>ry well know, and so doe you, dat Sir</hi> Thomas Fairfaxe <hi>is merci<g ref="char:EOLhyphen"/>full, and will doe much for save your life.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Truly if he doe, he but gives me a plaister when he hath broken my head; for it is he that hath put me into this dangerous fever; well Monsier I pray you hasten these things, and be very carefull.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>Wee waite your Excellency when we have made de dispatch: and den cure you present.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Rupert.</speaker>
+               <p>What time will you returne: I pray make hast you may finde me within at any time of the day.</p>
+            </sp>
+            <sp>
+               <speaker>Monsier</speaker>
+               <p>
+                  <hi>Mee will bee carefull, votrous tris humble servitur.</hi>
+               </p>
+            </sp>
+            <stage>Monsieur returnes with the <hi>Physicke.</hi>
+            </stage>
+            <sp>
+               <speaker>Rupert.</speaker>
+               <p>OH Master Doctor you are very welcome, have you pro<g ref="char:EOLhyphen"/>vided me the physick already, truely had you stayed ali<g ref="char:EOLhyphen"/>tle
+<pb n="4" facs="tcp:113257:4"/>longer I thinke I should have hardly opened my mouth.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>In trot mee have wit de very great deale care, and trou<g ref="char:EOLhyphen"/>blesome provided de better Physick dat never was taken: dat in de great glasse is de most very rare potion, de oder are de Cordiall dringe and de soveraigne Electuary: Drinke up dat in de great glasse before you say your prayer.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>What Master Doctor, will you not give me leave to say grace?</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>Fee, fee, Grace, me told you before dat you must drink it widout elder feare or wit: your disease is de desperate, and must have de desperate cure.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Well Master Doctor, if this be all your Circumstance, I shall willingly subscribe and drinke it.</p>
+            </sp>
+            <p>
+               <hi>Rupert</hi> drinks up the Potion, his Phisick workes, and hee in a great Agony.</p>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>Dat was done de admirable best, ha you drinke all up?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Oh thou French Divell, thou hast poysoned me: <hi>Sa<g ref="char:EOLhyphen"/>crament,</hi> hold my head; the Divell is in this Potion: I must cast.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>I up wit him, here will bee do very fine merriment presant.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>A thousand Sacraments thou French Mountebanke, If I dye of this Drench Ile kill thee.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>When you bee dead, you be d<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> great killer: but up wid dat.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>It is up now; what is it.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>O brave, you have cast up te Tevill or te Pope: it hat de <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> on it <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eall.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>But hold I dye presantly: here comes more.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>Saw saw, saw saw; Here be de brave Markets, here be de Lord Pishop and te Priest, he doth bow and cringe alrea<g ref="char:EOLhyphen"/>dy, like de humourous French Dancing-Master: here bee
+<pb n="5" facs="tcp:113257:4"/>Cardinalls Cap, de very white Surples, de Pluds, Copes, Cro<g ref="char:EOLhyphen"/>ster-staffe, and very much oder Trinket.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>O I am gone, this is my last breath: hang up that French Farrier.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>Sharge on brave boy, de worst is past: so, here comes de Rabble, here comes de Arch-Deacons, Deacons, Surrogates, Commissaries, Doctors, Advocates, Pro<g ref="char:EOLhyphen"/>ctors, Officialls, Notories, de Petty-fogging Clerks, and most abominable Pariter. What fare your Excellency? you call me de Farrier, and Horse-leech, and must be, must be hanged.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Pardon me, good Monsieur <hi>Grandipoco,</hi> I was in a great passion; but now my stomack is pretty well at ease: Let your other Physick alone till to morrow: and in the mean while, I will consider both of your paines and gratitude. It is possible I may live, and make another Will, wherein you shall have a speciall remembrance.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
